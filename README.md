@@ -132,35 +132,8 @@ export default defineConfig({
 ```bash
 npm run build
 ```
-Собранные файлы будут размещены в папке dist/.
-
-🐛 Отладка
-Используйте console.log() для отладки в development режиме
-
-Браузерные инструменты разработчика полностью поддерживаются
-
-Source maps включены для удобной отладки
-
-🤝 Вклад в проект
-Если вы хотите внести свой вклад:
-
-Форкните репозиторий
-
-Создайте ветку для вашей функции (git checkout -b feature/AmazingFeature)
-
-Закоммитьте изменения (git commit -m 'Add some AmazingFeature')
-
-Запушьте в ветку (git push origin feature/AmazingFeature)
-
-Откройте Pull Request
-
-📄 Лицензия
-Этот проект распространяется под лицензией MIT. Смотрите файл LICENSE для подробностей.
-
 👨‍💻 Автор
 AutoMaTorn - GitHub
-
-🙏 Благодарности
 Команде Vite за отличный инструмент сборки
 
 ## Сообществу JavaScript за вдохновение
